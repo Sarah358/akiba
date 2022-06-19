@@ -1,4 +1,4 @@
-package com.akiba.akibaapp.controller;
+package com.akiba.akibaapp.transactioncontroller;
 
 import com.akiba.akibaapp.entity.Transaction;
 import com.akiba.akibaapp.service.TransactionService;

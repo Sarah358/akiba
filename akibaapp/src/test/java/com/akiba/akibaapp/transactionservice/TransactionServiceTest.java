@@ -1,4 +1,4 @@
-package akibaapp.service;
+package com.akiba.akibaapp.transactionservice;
 
 import com.akiba.akibaapp.service.TransactionService;
 import org.junit.jupiter.api.Test;

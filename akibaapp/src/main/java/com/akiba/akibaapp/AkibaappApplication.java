@@ -1,4 +1,4 @@
-package com.akiba.akibaapp.web;
+package com.akiba.akibaapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

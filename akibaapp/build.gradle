@@ -22,7 +22,18 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
-	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test:2.7.0'
+
+	testImplementation 'io.rest-assured:rest-assured:5.1.1'
+	testImplementation 'io.rest-assured:json-path:5.1.1'
+	testImplementation 'io.rest-assured:xml-path:5.1.1'
+	testImplementation 'io.rest-assured:json-schema-validator:5.1.1'
+	testImplementation 'io.rest-assured:spring-mock-mvc:5.1.1'
+	testImplementation 'io.rest-assured:spring-web-test-client:5.1.1'
+
+
+
+
 }
 
 tasks.named('test') {
