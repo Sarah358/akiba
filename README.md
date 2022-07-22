@@ -1,6 +1,6 @@
 # akiba
 ## open banking app using OpenAPIs and Spring Boot
-Open banking is the practice of enabling secure interoperability in the banking industry by allowing third-party payment service and other financial service providers to access banking transactions and other data from banks and financial institutions.
+ Open banking is a banking practice that provides third-party financial service providers open access to consumer banking, transaction, and other financial data from banks and non-bank financial institutions through the use of application programming interfaces (APIs). 
 ## Techniques employed
 1. Spring Boot and Gradle
 2. Docker
